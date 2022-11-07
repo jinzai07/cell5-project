@@ -1,5 +1,5 @@
-Basic application working with NextJS with ReactJS + MongoDB.
-CRUD application for plants, where you can retrive, update, delete, create plants!
+<b>Basic application working with NextJS with ReactJS + MongoDB.
+CRUD application for plants, where you can retrive, update, delete, create plants!<b>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
